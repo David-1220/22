@@ -29,10 +29,6 @@ http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.c
 https://node3.olelive.com:6443/live/CCTV17HD.live.flv?token=3287ba2522a62432890fb578dfb1a0d8
 #EXTINF:-1,CCTV4k
 http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000266303.m3u8
-#EXTINF:-1,东方卫视
-https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=f0e6102bc9d566349bc839b569773a8b&volcTime=1703739406
-#EXTINF:-1,东方卫视
-http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel26/index.m3u8
 #EXTINF:-1,湖南卫视
 http://183.134.3.22:8888/newlive/live/hls/22/live.m3u8
 #EXTINF:-1,now新闻台
