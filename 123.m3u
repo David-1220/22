@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,CCTV1
 https://node3.olelive.com:6443/live/CCTV1HD.live.flv?token=c17c703af4ce0e7ea76e8a62837f45ee
-#EXTINF:-1,CCTV3
-http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel3/index.m3u8
 #EXTINF:-1,CCTV5
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1,CCTV5
